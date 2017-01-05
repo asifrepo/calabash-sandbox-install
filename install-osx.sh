@@ -11,7 +11,7 @@ fi
 
 export GEM_HOME="${HOME}/.calabash/sandbox/Gems"
 CALABASH_RUBIES_HOME="${HOME}/.calabash/sandbox/Rubies"
-CALABASH_RUBY_VERSION="2.3.1"
+CALABASH_RUBY_VERSION="2.1.6-p336"
 SANDBOX="${HOME}/.calabash/sandbox"
 CALABASH_SANDBOX="calabash-sandbox"
 
