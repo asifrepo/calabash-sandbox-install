@@ -115,7 +115,8 @@ to restore it to the original state, just run these commands:
 ##### OSX:
 ```shell
 $ rm -r ${HOME}/.calabash/sandbox
-$ curl -sSL https://raw.githubusercontent.com/calabash/install/master/install-osx.sh | bash
+$ curl -sSL https://raw.githubusercontent.com/asifrepo/calabash-sandbox-install/master/install-osx.sh | bash
+
 ```
 
 ##### Windows:
